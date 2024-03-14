@@ -2,6 +2,7 @@
   "name": "unit-testing-example-epam",
   "version": "1.0.0",
   "description": "Unit testing folder for demos of epam course",
+  "type":"module",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
